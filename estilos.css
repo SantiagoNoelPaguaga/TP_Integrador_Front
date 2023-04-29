@@ -1,0 +1,44 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+header nav {
+    padding-left: 7% !important;
+    padding-right: 7% !important;
+}
+
+#carouselprop {
+    margin: 0;
+    width: 100%;
+}
+
+.carousel {
+    height: 770px;
+    filter: brightness(70%);
+    object-fit: cover;
+}
+
+.carousel-item img{
+    height: 770px;
+    object-fit: cover;
+    object-position: 25% 73%;
+  }
+
+.carousel-caption {
+    position: absolute;
+    bottom: 15%;
+    right: 7%;
+}
+
+.form-floating textarea {
+    height: 100px;
+}
+
+.formato {
+    font-size: small;
+}
+
+.footer {
+    background-color: #1d3e51;
+}
